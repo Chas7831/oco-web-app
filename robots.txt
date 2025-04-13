@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://app.pileum.org
+
+# Sitemaps
+Sitemap: https://app.pileum.org/sitemap.xml
