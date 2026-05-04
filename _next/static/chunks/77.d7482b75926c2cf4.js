@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[77],{85077:(e,r,s)=>{s.r(r),s.d(r,{Eruda:()=>a});var c=s(95155),u=s(12115);let a=e=>((0,u.useEffect)(()=>{},[]),(0,c.jsx)(c.Fragment,{children:e.children}))}}]);
